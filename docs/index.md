@@ -35,6 +35,7 @@ This portfolio demonstrates my growing experience with:
 
 ### Templates
 - [Technical Writing Template](./template.md)
+- [Improving Mental Health Outcomes in Veteran Assistance Programs](./veteran-mental-health-report.md)
 
 ### Upcoming Projects
 - EMS Workflow Documentation
