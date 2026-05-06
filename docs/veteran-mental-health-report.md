@@ -70,14 +70,12 @@ Research indicates that mental health disorders are the leading contributors to 
 
 ## Figure 1 — Combat Deaths vs Veteran Suicides
 
-![Combat Deaths vs Veteran Suicides](../images/veteran-suicide-chart.png)
-
+!<img src="./images/veteran-suicide-chart.png" alt="Combat Deaths vs Veteran Suicides">
 ---
 
 ## Figure 2 — Key Contributing Factors to Veteran Suicide
 
-![Key Contributing Factors](../images/contributing-factors-chart.png)
-
+<img src="./images/contributing-factors-chart.png" alt="Key Contributing Factors to Veteran Suicide">
 The diagram illustrates that untreated mental health conditions are the most significant contributing factor to veteran suicide, with access to care limitations and cultural stigma also playing substantial roles.
 
 Training deficiencies further compound these issues by preventing early identification and intervention, highlighting the need for systemic improvements across multiple levels of support.
