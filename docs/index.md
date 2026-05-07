@@ -1,7 +1,7 @@
 
 <img src="./images/Header Image.png" alt="Header">
 
-[About Me](./README.MD)
+[About Me](./About-Me.md)
 
 ## Richard White
 
