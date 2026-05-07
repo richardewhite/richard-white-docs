@@ -1,8 +1,8 @@
 ### How to Create and Publish a Podcast
 
-**Document Version:** 1.0
-**Last Updated:** 2026-05-07
-**Author(s):** Richard White
+>**Document Version:** 1.0
+>**Last Updated:** 2026-05-07
+>**Author(s):** Richard White
 
 ## Introduction
 
@@ -18,15 +18,14 @@ List all requirements needed before starting.
 -Internet browser
 
 -Podcast hosting platform account
+
 ## Equipment:
 
--Microphone
-
--Headphones
-
--Computer or laptop
-
--Stable internet connection
+>-Microphone
+>-Headphones
+>-Computer or laptop
+>-Stable internet connection
+--
 ## Accounts:
 
 -Spotify for Podcasters account
