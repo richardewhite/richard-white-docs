@@ -1,4 +1,4 @@
-# EMS Experience
+# Emergency Management Experience
 
 ## Emergency Medical Services Professional  
 **New York | 2013 – Present**
