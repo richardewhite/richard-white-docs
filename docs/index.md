@@ -41,6 +41,12 @@ Southern New Hampshire University — Summa Cum Laude
 - Sigma Tau Delta (International English Honor Society)
 - National Society of Leadership and Success (NSLS)
 
+### LinkedIn Learning
+
+- <a href="https://www.linkedin.com/learning/certificates/e47af2395626967e935e7e4fa23dbc8125cfbe9594e31bdd23556fd83665d452?u=2106393" target="_blank" rel="noopener noreferrer">Creating Technical Documentation with GitHub</a>
+
+- <a href="https://www.coursera.org/account/accomplishments/verify/XW4DCIJIWM2J" target="_blank" rel="noopener noreferrer">Introduction to Technical Writing</a>
+
 ---
 
 ## Skills
