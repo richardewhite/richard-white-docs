@@ -73,7 +73,7 @@ Southern New Hampshire University — Summa Cum Laude
 ## Available Documents
 
 ### Templates & Writing Sample
- [Podcast Instructions](./How%20to%20Create%20and%20Publish%20a%20Podcast.md)
+- [Podcast Instructions](./How-to-Create-and-Publish-a-Podcast.md)
 - [Veteran Mental Health Report](./veteran-mental-health-report.md)
 
 ---
