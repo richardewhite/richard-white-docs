@@ -75,6 +75,7 @@ Southern New Hampshire University — Summa Cum Laude
 ### Templates & Writing Sample
 - [Podcast Instructions](./How-to-Create-and-Publish-a-Podcast.md)
 - [Veteran Mental Health Report](./veteran-mental-health-report.md)
+- [EMS Uniform Standard Operating Procedure](./ems-uniform-sop.md)
 
 ---
 
