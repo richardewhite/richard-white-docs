@@ -1,14 +1,13 @@
 
 <img src="./images/Header Image.png" alt="Header">
-# Richard White
+
+## Richard White
 
 ## Technical Writer | Documentation Specialist
 
 <img src="./images/Profile Picture.png" width="120" style="float:left; margin-right:15px; border-radius:50%;" alt="Profile Picture">
 
 Welcome to my technical writing and documentation portfolio. This site contains technical documentation projects, templates, workflow documentation, and writing samples developed using GitHub, Markdown, and VS Code.
-
----
 
 ---
 
