@@ -74,7 +74,6 @@ Southern New Hampshire University — Summa Cum Laude
 
 ## Contact
 
--## Contact
 
 - <a href="https://www.linkedin.com/in/richardwhite27/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
