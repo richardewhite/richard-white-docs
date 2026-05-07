@@ -74,10 +74,15 @@ Southern New Hampshire University — Summa Cum Laude
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/richardwhite27/
-- **X (Twitter):** https://x.com/Rich_White27
-- **Email:** richard.e.white27@gmail.com
-- **GitHub Pages:** https://richardewhite.github.io/richard-white-docs/
+-## Contact
+
+- <a href="https://www.linkedin.com/in/richardwhite27/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
+- <a href="https://x.com/Rich_White27" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
+
+- <a href="mailto:richard.e.white27@gmail.com">Email</a>
+
+- <a href="https://richardewhite.github.io/richard-white-docs/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
 
 ---
 
