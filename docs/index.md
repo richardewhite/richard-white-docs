@@ -1,7 +1,7 @@
 
 <img src="./images/Header Image.png" alt="Header">
 
-[About Me](./About-Me.md) -- [EMS Project](./EMSCharts-Project.md)
+[About Me](./About-Me.md)     [EMS Project](./EMSCharts-Project.md)
 
 ## Richard White
 
