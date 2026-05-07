@@ -1,6 +1,9 @@
 
 <img src="./images/Header Image.png" alt="Header">
-# Richard White
+
+[About Me](./README.MD)
+
+## Richard White
 
 ## Technical Writer | Documentation Specialist
 
