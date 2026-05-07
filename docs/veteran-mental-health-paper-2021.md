@@ -3,6 +3,8 @@ SCS200
 Michelle Bishop
 August 1, 2021
 
+© 2026 Richard White
+
 ## Introduction
 Veteran suicide represents a significant and ongoing public health crisis in the United States. Research consistently shows that mental health conditions such as post-traumatic stress disorder (PTSD), depression, and difficulties with reintegration into civilian life are primary contributors to suicide among veterans. Despite the existence of support systems such as the Department of Veterans Affairs (VA), gaps in accessibility, staffing, and preventative care continue to limit their effectiveness.
 
@@ -62,11 +64,17 @@ Veteran suicide is a preventable outcome when appropriate systems and resources 
 Addressing this issue is not only a matter of public health but also a responsibility to those who have served.
 
  
-References
-Ahlin, E. M., & Douds, A. S. (2018). Many shades of green: Assessing awareness of differences in mental health care needs among subpopulations of military veterans. International Journal of Offender Therapy and Comparative Criminology, 62(10), 3168–3184.
-Hernandez, J. (2021). Since 9/11, military suicides are 4 times higher than deaths in war operations. NPR.
-Jones, A. (2020). Hold your position. AJ Impacts.
-McKinney, J. M., Hirsch, J. K., & Britton, P. C. (2017). PTSD symptoms and suicide risk in veterans: Serial indirect effects via depression and anger. Journal of Affective Disorders, 214, 100–107.
-Shane, L., & Kime, P. (2017). New VA study finds 20 veterans commit suicide each day. Military Times.
-TEDxTalks. (2016). How to end veteran suicides.
+## References
+
+Ahlin, E. M., & Douds, A. S. (2018). *Many Shades of Green: Assessing Awareness of Differences in Mental Health Care Needs among Subpopulations of Military Veterans.*
+
+Hernandez, J. (2021). *Since 9/11, Military suicides are 4 times higher than deaths in war operations.* NPR.
+
+Jones, A. (2020). *Hold Your Position.* AJ Impacts.
+
+McKinney, J. M., Hirsch, J. K., & Britton, P. C. (2017). *PTSD symptoms and suicide risk in veterans.*
+
+Shane, L., & Kime, P. (2017). *New VA study finds 20 veterans commit suicide each day.* Military Times.
+
+TEDxTalks. (2016). *How to End Veteran Suicides.*
 
