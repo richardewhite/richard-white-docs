@@ -56,12 +56,6 @@ Podcasting is the process of recording audio content and distributing it online 
 9. Publish and distribute the podcast to streaming platforms.
 10. Share the podcast using social media or websites.
 
-### Example File Export
-
-```bash
-# Example file export format
-podcast_episode_01.mp3
-
 ---
 
 ## Section 3: Recording Tips
