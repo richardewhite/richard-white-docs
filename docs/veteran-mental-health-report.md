@@ -11,6 +11,7 @@ Veteran suicide remains a significant public health concern in the United States
 Using existing research and statistical data, this report proposes actionable recommendations such as early psychological screening, expanded clinical staffing, and improved coordination between the Department of Defense (DoD) and Veterans Health Administration (VHA). These measures aim to reduce suicide rates and improve long-term outcomes for veterans.
 
 ---
+Read full paper here: - [Veteran Mental Health Paper (2021 Writing Sample)](./veteran-mental-health-paper-2021.md)
 
 ## 1. Introduction
 
