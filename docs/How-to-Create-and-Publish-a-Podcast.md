@@ -2,7 +2,7 @@
 
 > **Document Version:** 1.0  
 > **Last Updated:** 2026-05-07  
-> **Author(s):** Your Name  
+> **Author(s):** Richard White  
 
 ---
 
