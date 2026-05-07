@@ -8,9 +8,7 @@
 <img src="./images/Profile Picture.png" width="120" style="float:left; margin-right:15px; border-radius:50%;" alt="Profile Picture">
 
 Welcome to my technical writing and documentation portfolio. This site contains technical documentation projects, templates, workflow documentation, and writing samples developed using GitHub, Markdown, and VS Code.
-
 ---
-
 ## About Me
 
 I am an emerging technical writer with experience developing structured documentation, technical reports, workflow guides, and user-focused instructional content. My work focuses on creating clear, organized, and accessible documentation for both technical and non-technical audiences.
