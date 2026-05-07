@@ -1,8 +1,8 @@
 ### How to Create and Publish a Podcast
 
-Document Version: 1.0
-Last Updated: 2026-05-07
-Author(s): Richard White
+**Document Version:** 1.0
+**Last Updated:** 2026-05-07
+**Author(s):** Richard White
 
 ## Introduction
 
